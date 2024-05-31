@@ -88,7 +88,6 @@
         <script>
             /*
             -EVENTO MOSTRAR TODAS LAS IMÁGENES-
-
             Evento que al cargarse la página realizar una petición fetch para cargar las imágenes de los títulos desde la base de datos*/ 
             window.addEventListener('DOMContentLoaded', (event) => {
               // Cuando la página cargue, realiza una solicitud para obtener las URLs de las imágenes  
